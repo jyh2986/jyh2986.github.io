@@ -1,4 +1,9 @@
 highlighter: pygments
+#markdown: kramdown
+#future: true
+#kramdown:
+#  parse_block_html: true
+#  syntax_highlighter: rouge
 markdown: rdiscount
 rdiscount:
   extensions: [smart]
@@ -17,7 +22,7 @@ baseurl: /vitae/
 title: Junjue Wang's Resume
 name: Junjue Wang
 email: junjuew@cs.cmu.edu
-website: github.io/sustain
+website: junjuewang.net
 website_full: https://www.junjuewang.net
 github: trending
 twitter: twitter

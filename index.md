@@ -2,13 +2,13 @@
 layout: layout
 ---
 
-{% include publications.html %}
-
+{% include publications.md %}
 {% include employment.html %}
 
 {% include education.html %}
 
 <!--
+{% include publications.html %}
 {% include skills.html %}
 
 {% include initiatives.html %}
