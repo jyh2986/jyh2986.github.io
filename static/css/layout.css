@@ -13,10 +13,11 @@ body {
     margin-top: 50px;
 }
 
+/*
 a {
     text-decoration: none;
-    /*background-color: rgba(39, 168, 34, 0.06);*/
 }
+*/
 
 a:visited {
     text-decoration: none;
