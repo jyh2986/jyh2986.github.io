@@ -4,9 +4,11 @@
 
 <article markdown="1">
 <header>
-<h1 markdown="1">Quantifying the Impact of Edge Computing on Mobile Applications [PDF](http://dl.acm.org/citation.cfm?id=2967369)</h1>
+<h1>Quantifying the Impact of Edge Computing on Mobile Applications</h1>
 <span><address>Graduate Research Assistant, Carnegie Mellon University, Advisor: Prof. Satya</address><time>Sept. 2015 - present</time></span>
 </header>
+[PDF](http://dl.acm.org/citation.cfm?id=2967369)
+
 * Measured network latency for cloudlets, small-scale datacenters located at the edge of the Internet, under Wi-Fi and 4G LTE networks
 * Measured energy consumption on mobile devices when offloading heavy computation to cloudlets
 * Analyzed system design trade-off between response latency and energy consumption in edge computing
@@ -28,6 +30,8 @@
 <h1>UbiK: Ubiquitous Keyboard for Small Mobile Devices</h1>
 <span><address>Undergraduate Research Assistant, University of Wisconsin-Madison, Advisor: Prof. Xinyu Zhang</address><time>May 2013 - Dec. 2013</time></span>
 </header>
+[PDF](http://dl.acm.org/citation.cfm?id=2594384)
+
 * Designed and implemented the paper keyboard UbiK, leveraging audio and motion signals received by a smartphone to detect and recognize different keys
 * Performed feasibility tests and discovered multipath fading audio signatures of keystrokes on conventional surfaces
 * Modified Android kernel TinyALSA audio driver to enable dual microphone recording and double feature space 
