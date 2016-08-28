@@ -7,23 +7,22 @@
 #markdown: rdiscount
 #rdiscount:
 #  extensions: [smart]
+
 permalink: /:title.html
 paginate: 5
 gems: [jekyll-paginate]
 port: 4000
 safe: true
-#url: 
-#author: 
 
 # for a normal use at the base of the server change it to "/"
 baseurl: /
 title: Junjue Wang's Resume
 name: Junjue Wang
-email: junjuew@cs.cmu.edu
+email: junjuew dot cs dot cmu dot edu
 website: junjuewang.net
 website_full: https://www.junjuewang.net
-github: trending
-twitter: twitter
+github: https://github.com/junjuew
+#twitter: twitter
 google_maps: 'https://goo.gl/maps/K4jX8fPdMA32'
 address: 9120 Gates Hillman Center, 4902 Forbes Ave
 postcode: 15213
