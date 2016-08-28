@@ -4,7 +4,7 @@
 
 <article markdown="1">
 <header>
-<h1 markdonw="1">Quantifying the Impact of Edge Computing on Mobile Applications [PDF](http://dl.acm.org/citation.cfm?id=2967369)</h1>
+<h1 markdown="1">Quantifying the Impact of Edge Computing on Mobile Applications [PDF](http://dl.acm.org/citation.cfm?id=2967369)</h1>
 <span><address>Graduate Research Assistant, Carnegie Mellon University, Advisor: Prof. Satya</address><time>Sept. 2015 - present</time></span>
 </header>
 * Measured network latency for cloudlets, small-scale datacenters located at the edge of the Internet, under Wi-Fi and 4G LTE networks
