@@ -10,13 +10,19 @@
 
 permalink: /:title.html
 paginate: 5
-gems: [jekyll-paginate]
+gems:
+  - jekyll-paginate
+  - jekyll-seo-tag
+
 port: 4000
 safe: true
 
 # for a normal use at the base of the server change it to "/"
 baseurl: /
-title: Junjue Wang's Resume
+title: Junjue Wang's Personal Website
+description: Junjue Wang is currently a computer science PhD candidate at Carnegie Mellon University.
+url: junjuew.github.io
+author: Junjue Wang
 name: Junjue Wang
 email: junjuew dot cs dot cmu dot edu
 website: junjuewang.net
