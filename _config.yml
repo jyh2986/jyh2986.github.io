@@ -34,7 +34,7 @@ address: 9120 Gates Hillman Center, 4902 Forbes Ave
 postcode: 15213
 city: Pittsburgh
 country: USA
-google_analytics: UA-69300817-1
+google_analytics: UA-83573106-1
 
 # needed for travis-ci build
 exclude: [vendor]
