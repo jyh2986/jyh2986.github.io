@@ -9,9 +9,9 @@
 #  extensions: [smart]
 
 permalink: /:title.html
-paginate: 5
+#paginate: 5
 gems:
-  - jekyll-paginate
+#  - jekyll-paginate
   - jekyll-seo-tag
 
 port: 4000
