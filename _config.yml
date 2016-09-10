@@ -11,15 +11,9 @@
 permalink: /:month-:day-:year/:title.html
 paginate: 5
 gems:
-  - bourbon
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
-
-# Sass configuration
-sass:
-  sass_dir: assets/scss
-  style: compressed # expanded
 
 port: 4000
 #safe: true
