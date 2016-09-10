@@ -8,15 +8,21 @@
 #rdiscount:
 #  extensions: [smart]
 
-permalink: /:title.html
-#paginate: 5
+permalink: /:month-:day-:year/:title.html
+paginate: 5
 gems:
-#  - jekyll-paginate
+  - bourbon
+  - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
 
+# Sass configuration
+sass:
+  sass_dir: assets/scss
+  style: compressed # expanded
+
 port: 4000
-safe: true
+#safe: true
 
 # for a normal use at the base of the server change it to "/"
 baseurl: /

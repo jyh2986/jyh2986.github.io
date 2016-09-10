@@ -11,3 +11,5 @@ layout: layout
 {% include employment.html %}
 
 {% include education.html %}
+
+{% include blogs.md %}
