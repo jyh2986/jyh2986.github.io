@@ -30,7 +30,7 @@
 <h1>UbiK: Ubiquitous Keyboard for Small Mobile Devices</h1>
 <span><address>Undergraduate Research Assistant, University of Wisconsin-Madison, Advisor: Prof. Xinyu Zhang</address><time>May 2013 - Dec. 2013</time></span>
 </header>
-[PDF](http://dl.acm.org/citation.cfm?id=2594384)
+[PDF](http://dl.acm.org/citation.cfm?id=2594384)  [Video](https://www.youtube.com/watch?v=RIIQGNYCFyk)
 
 * Designed and implemented the paper keyboard UbiK, leveraging audio and motion signals received by a smartphone to detect and recognize different keys
 * Performed feasibility tests and discovered multipath fading audio signatures of keystrokes on conventional surfaces
