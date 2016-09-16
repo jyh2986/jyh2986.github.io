@@ -9,9 +9,7 @@
 #  extensions: [smart]
 
 permalink: /:month-:day-:year/:title.html
-paginate: 5
 gems:
-  - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
 
