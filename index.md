@@ -10,6 +10,8 @@ layout: layout
 
 {% include employment.html %}
 
-{% include education.html %}
+{% include education.md %}
+
+{% include awards.md %}
 
 {% include blogs.md %}

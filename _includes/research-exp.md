@@ -7,7 +7,7 @@
 <h1>Quantifying the Impact of Edge Computing on Mobile Applications</h1>
 <span><address>Graduate Research Assistant, Carnegie Mellon University, Advisor: Prof. Satya</address><time>Sept. 2015 - present</time></span>
 </header>
-[PDF](http://dl.acm.org/citation.cfm?id=2967369)
+[Pub](http://dl.acm.org/citation.cfm?id=2967369)
 
 * Measured network latency for cloudlets, small-scale datacenters located at the edge of the Internet, under Wi-Fi and 4G LTE networks
 * Measured energy consumption on mobile devices when offloading heavy computation to cloudlets
@@ -30,7 +30,7 @@
 <h1>UbiK: Ubiquitous Keyboard for Small Mobile Devices</h1>
 <span><address>Undergraduate Research Assistant, University of Wisconsin-Madison, Advisor: Prof. Xinyu Zhang</address><time>May 2013 - Dec. 2013</time></span>
 </header>
-[PDF](http://dl.acm.org/citation.cfm?id=2594384)  [Video](https://www.youtube.com/watch?v=RIIQGNYCFyk)
+[Pub](http://dl.acm.org/citation.cfm?id=2594384)  [Video](https://www.youtube.com/watch?v=RIIQGNYCFyk)
 
 * Designed and implemented the paper keyboard UbiK, leveraging audio and motion signals received by a smartphone to detect and recognize different keys
 * Performed feasibility tests and discovered multipath fading audio signatures of keystrokes on conventional surfaces
@@ -56,5 +56,4 @@
 * Rewrote 6 UT-Austin LonestarGPU CUDA benchmarks into equivalent C++ and OpenCL programs
 * Collected and examined program features with PIN and MICA binary instrumentation framework
 </article>
-
 </section>
