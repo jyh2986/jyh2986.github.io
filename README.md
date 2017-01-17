@@ -1,4 +1,6 @@
-# Vitae
+# Source for My Personal Website
+
+## Acknowledgement
 
 This website uses template [Vitae](https://github.com/biomadeira/vitae).
 Vitae is built with [skeleton](http://getskeleton.com/), powered by [Jekyll](http://jekyllrb.com/) and freely
