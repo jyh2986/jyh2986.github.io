@@ -1,6 +1,12 @@
 <section class="thirteen columns" markdown="1">
 
 # Research Projects
+<article markdown="1">
+<header>
+<h1>A Scalable and Privacy-Aware IoT Service for Live Video Analytics</h1>
+<span><address>Graduate Research Assistant, Carnegie Mellon University, Advisor: Prof. Satya</address><time>Sept. 2016 - present</time></span>
+</header>
+[Pub]({{ site.url }}/assets/vden2017.pdf)
 
 <article markdown="1">
 <header>
