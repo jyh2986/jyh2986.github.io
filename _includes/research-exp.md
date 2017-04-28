@@ -1,16 +1,20 @@
 <section class="thirteen columns" markdown="1">
-
-# Research Projects
+# Research Experience
 <article markdown="1">
 <header>
-<h1>A Scalable and Privacy-Aware IoT Service for Live Video Analytics</h1>
+<h1>A Scalable and Privacy-Aware IoT Service for Live Video Analytics (MMSys'17)</h1>
 <span><address>Graduate Research Assistant, Carnegie Mellon University, Advisor: Prof. Satya</address><time>Sept. 2016 - present</time></span>
 </header>
-[Pub]({{ site.url }}/assets/vden2017.pdf)
+[Pub]({{ site.url }}/assets/vden2017.pdf)  [Video](https://youtu.be/gQa8oScFS94)
+
+* Designed and implemented a real-time IoT privacy mediation system that selectively blurs faces
+* Adopted a cloudlet-based approach to achieve separation of trust and ensure platform integrity
+* Leveraged object tracking to speed-up face detection and DNN-based face recognition
+</article>
 
 <article markdown="1">
 <header>
-<h1>Quantifying the Impact of Edge Computing on Mobile Applications</h1>
+<h1>Quantifying the Impact of Edge Computing on Mobile Applications (APSys'16)</h1>
 <span><address>Graduate Research Assistant, Carnegie Mellon University, Advisor: Prof. Satya</address><time>Sept. 2015 - present</time></span>
 </header>
 [Pub](http://dl.acm.org/citation.cfm?id=2967369)
@@ -33,7 +37,7 @@
 
 <article markdown="1">
 <header>
-<h1>UbiK: Ubiquitous Keyboard for Small Mobile Devices</h1>
+<h1>UbiK: Ubiquitous Keyboard for Small Mobile Devices (MobiSys'14)</h1>
 <span><address>Undergraduate Research Assistant, University of Wisconsin-Madison, Advisor: Prof. Xinyu Zhang</address><time>May 2013 - Dec. 2013</time></span>
 </header>
 [Pub](http://dl.acm.org/citation.cfm?id=2594384)  [Video](https://www.youtube.com/watch?v=RIIQGNYCFyk)
