@@ -2,6 +2,7 @@
 
 # Honors & Awards
 
+* MMSys'17 Student Travel Grant
 * APSys'16 Student Travel Grant
 * UW-Madison Qualcomm Innovation Competition Best Prototype Award
 * UW-Madison Hilldale Research Fellowship

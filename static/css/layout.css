@@ -83,6 +83,10 @@ article > header > h1 {
     color: inherit;
 }
 
+article > header > h1 > i {
+    color: indianred;
+}
+
 article > header > span + span {
     margin-left: 2px;
 }
