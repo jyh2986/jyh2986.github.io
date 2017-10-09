@@ -5,7 +5,7 @@
 <h1>A Scalable and Privacy-Aware IoT Service for Live Video Analytics (MMSys'17) <br/><i>Best Paper Award</i></h1>
 <span><address>Graduate Research Assistant, Carnegie Mellon University, Advisor: Prof. Satya</address><time>Sept. 2016 - Jan. 2017</time></span>
 </header>
-[Paper](http://dl.acm.org/citation.cfm?id=3083192) [Slides]({{ site.url }}/assets/MMSys17.pptx) [Video](https://youtu.be/gQa8oScFS94)
+[Paper](http://dl.acm.org/citation.cfm?id=3083192) [Slides]({{ site.url }}/assets/MMSys17.pptx) [Demo](https://youtu.be/gQa8oScFS94) [Talk](https://youtu.be/dUrXwauMTSQ)
 
 * Designed and implemented a real-time IoT privacy mediation system that selectively blurs faces
 * Adopted a cloudlet-based approach to achieve separation of trust and ensure platform integrity
@@ -40,7 +40,7 @@
 <h1>UbiK: Ubiquitous Keyboard for Small Mobile Devices (MobiSys'14)</h1>
 <span><address>Undergraduate Research Assistant, University of Wisconsin-Madison, Advisor: Prof. Xinyu Zhang</address><time>May 2013 - Dec. 2013</time></span>
 </header>
-[Paper](http://dl.acm.org/citation.cfm?id=2594384) [Slides]({{ site.url }}/assets/MobiSys17.pptx) [Video](https://www.youtube.com/watch?v=RIIQGNYCFyk)
+[Paper](http://dl.acm.org/citation.cfm?id=2594384) [Slides]({{ site.url }}/assets/MobiSys17.pptx) [Demo](https://www.youtube.com/watch?v=RIIQGNYCFyk)
 
 * Designed and implemented the paper keyboard UbiK, leveraging audio and motion signals received by a smartphone to detect and recognize different keys
 * Performed feasibility tests and discovered multipath fading audio signatures of keystrokes on conventional surfaces
