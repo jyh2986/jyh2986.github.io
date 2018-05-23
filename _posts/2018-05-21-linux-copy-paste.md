@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Mouse-free Copy + Paste on Linux (Ubuntu)"
+description: "Fix copy paste on Ubuntu"
+comments: true
+author: Junjue Wang
+keywords: "Copy/Paste, Linux, Ubuntu, Tmux"
+---
 # Mouse-free Copy + Paste on Linux (Ubuntu)
 
 Recently, a friend who is new to Ubuntu, asks me "Why cannot I copy from
