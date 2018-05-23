@@ -29,11 +29,13 @@ function supported by X11.
 
 If you use Emacs's built-in M-w to copy your selection, following table
 demonstrates in which combination the following "paste" would succeed.
+
 | Copy To | Emacs         | Emacs -nw (Terminal Mode** | Browser |
 | ------------- |:-------------:| -------------------------:|---------:|
 | Emacs         | Y             |                          |         |
 | Emacs -nw     | N             | Y                        |  |
 | Browser       | Y             | N                         | Y |
+{: .pure-table .pure-table-bordered}
 
 So how do we fix this? What is a general solution to copy/paste between GUI
 applications and terminals?
