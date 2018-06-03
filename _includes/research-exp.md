@@ -11,7 +11,17 @@
 * Adopted a cloudlet-based approach to achieve separation of trust and ensure platform integrity
 * Leveraged object tracking to speed-up face detection and DNN-based face recognition
 </article>
+<article markdown="1">
+<header>
+<h1>
+An Empirical Study of Latency in an Emerging Class of Edge Computing Applications for Wearable Cognitive Assistance
+(SEC'17)</h1>
+<span><address>Graduate Research Assistant, Carnegie Mellon University, Advisor: Prof. Satya</address><time>Sept. 2016 - August. 2017</time></span>
+</header>
+[Paper](https://dl.acm.org/citation.cfm?id=3134458) [Demo](https://youtu.be/uy17Hz5xvmY)
 
+* Assisted user study on the latency requirements of wearable cognitive assistance
+</article>
 <article markdown="1">
 <header>
 <h1>Quantifying the Impact of Edge Computing on Mobile Applications (APSys'16)</h1>
