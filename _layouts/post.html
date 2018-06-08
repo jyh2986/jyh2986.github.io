@@ -6,9 +6,9 @@ layout: layout
   <header class="post-header">
     <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
   </header>
-  <section class="thirteen columns" markdown="1">
+  <p class="thirteen columns" markdown="1">
     {{ content }}
-  </section>
+  </p>
 </article>
 
 {% if page.comments %}
