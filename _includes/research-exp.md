@@ -10,7 +10,7 @@
 
 <article markdown="1">
 <header>
-<h1>A Scalable and Privacy-Aware IoT Service for Live Video Analytics (MMSys'17) <br/><i>Best Paper Award</i></h1>
+<h1>A Scalable and Privacy-Aware IoT Service for Live Video Analytics (MMSys'17 and TOMM) <br/><i>Best Paper Award</i></h1>
 <span><address>Graduate Research Assistant, Carnegie Mellon University, Advisor: Prof. Satya</address><time>Sept. 2016 - Jan. 2017</time></span>
 </header>
 [Paper](http://dl.acm.org/citation.cfm?id=3083192) [Slides]({{ site.url }}/assets/MMSys17.pptx) [Demo](https://youtu.be/gQa8oScFS94) [Talk](https://youtu.be/dUrXwauMTSQ)
