@@ -1,5 +1,13 @@
 <section class="thirteen columns" markdown="1">
 # Research Experience
+
+<article markdown="1">
+<header>
+<h1>Bandwidth-efficient Live Video Analytics for Drones via Edge Computing (to appear in SEC'18)</h1>
+<span><address>Graduate Research Assistant, Carnegie Mellon University, Advisor: Prof. Satya</address><time>Sept. 2017 - May. 2018</time></span>
+</header>
+</article>
+
 <article markdown="1">
 <header>
 <h1>A Scalable and Privacy-Aware IoT Service for Live Video Analytics (MMSys'17) <br/><i>Best Paper Award</i></h1>
