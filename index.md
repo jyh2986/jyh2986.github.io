@@ -4,14 +4,14 @@ layout: layout
 
 {% include bio.md %}
 
-{% include research-exp.md %}
+<!--{% include research-exp.md %}-->
 
-{% include publications.md %}
+<!--{% include publications.md %}-->
 
-{% include employment.html %}
+<!--{% include employment.html %}-->
 
-{% include education.md %}
+<!--{% include education.md %}-->
 
-{% include awards.md %}
+<!--{% include awards.md %}-->
 
-{% include blogs.md %}
+<!--{% include blogs.md %}-->
