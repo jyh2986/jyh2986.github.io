@@ -11,7 +11,7 @@
 </article>
 <article markdown="1">
 <header>
-<h1>B.S. in Computer Science</h1>
+<h1>M.S. in Computer Science</h1>
 <span>Seoul National University</span>
 <span><address>Seoul, Korea</address><time>2006 to 2008</time></span>
 </header>
