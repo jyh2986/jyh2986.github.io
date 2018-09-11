@@ -2,9 +2,7 @@
 
 # Biography
 
-I am a fourth year Ph.D. student at Carnegie Mellon University, Computer Science
-Department. My research interest lies at the intersection of mobile computing,
-computer vision, and human-computer interaction. Particularly, I'm working on
+I am a Ph.D. student at KAIST, Electrical Engineering. Department. My research interest is computer vision, deep learning, and image processing. <!--Particularly, I'm working on
 **wearable cognitive assistance** running on
 [cloudlets](http://elijah.cs.cmu.edu/) under the guidance of [Prof. Mahadev
 Satyanarayanan (Satya)](https://www.cs.cmu.edu/~satya/). I aim to apply recent
@@ -16,4 +14,4 @@ Challenge](http://news.usa.siemens.biz/press-release/siemens-usa/siemens-leading
 in 2018 to work on development frameworks for creating object detectors with Deep Neural
 Networks. More recently, I proposed my thesis **Scaling Wearable Cognitive
 Assistance**. You can find my proposal [here](assets/proposal.pdf).
-</section>
+</section>-->
