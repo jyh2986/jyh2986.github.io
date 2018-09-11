@@ -1,6 +1,6 @@
 <section class="thirteen columns" markdown="1">
-# Publications
 
+# Publications
 <article markdown="1">
 <header>
 <h1>Active Convolution: Learning the Shape of Convolution for Image Classification.</h1>
