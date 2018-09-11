@@ -1,4 +1,5 @@
 <section class="thirteen columns" markdown="1">
+
 # Publications
 
 Yunho Jeon and Junmo Kim. Active Convolution: Learning the Shape of Convolution for Image Classification.  
