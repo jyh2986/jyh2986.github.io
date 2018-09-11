@@ -10,7 +10,7 @@ layout: layout
 
 <!--{% include employment.html %}-->
 
-<!--{% include education.md %}-->
+{% include education.md %}
 
 <!--{% include awards.md %}-->
 
