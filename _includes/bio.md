@@ -2,7 +2,9 @@
 
 # Biography
 
-I am a Ph.D. student at KAIST, Electrical Engineering. Department. My research interest is computer vision, deep learning, and image processing. 
+I am a Ph.D. student at KAIST, Electrical Engineering. Department. 
+
+My research interest is computer vision, deep learning, and image processing. 
 
 <!--Particularly, I'm working on
 **wearable cognitive assistance** running on
