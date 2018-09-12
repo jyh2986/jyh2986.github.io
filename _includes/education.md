@@ -18,7 +18,7 @@
 </article>
 <article markdown="1">
 <header>
-<h1>B.S. in Mathematics & Computer Science (Dual Degree)</h1>
+<h1>B.S. in Mathematics & Computer Science (double major)</h1>
 <span>Seoul National University</span>
 <span><address>Seoul, Korea</address><time>2001 to 2006</time></span>
 </header>
